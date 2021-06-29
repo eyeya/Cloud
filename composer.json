@@ -1,0 +1,15 @@
+{
+    "name": "acer/cloud",
+    "autoload": {
+        "psr-4": {
+            "Acer\\Cloud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "eyeya",
+            "email": "86484894+eyeya@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
